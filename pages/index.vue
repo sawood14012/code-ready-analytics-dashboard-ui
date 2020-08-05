@@ -115,13 +115,63 @@
 
    <v-divider></v-divider>
    <v-banner>
-     <h3> Dashboard Generation Corn job</h3>
+     <h3> Dashboard Generation</h3>
      <v-container>
-    <v-row no-gutters>
+       <v-row no-gutters>
+      <v-col
+        cols="12"
+        sm="4"
+      >
+        <v-card
+          class="pa-2"
+          outlined
+          tile
+        >
+          <v-card-title>Generation Job</v-card-title>
+          <v-card-subtitle>Corn job which will generate dashboard</v-card-subtitle>
+          <v-card-text> 
+            <a href="https://github.com/sawood14012/code-ready-analytics-dashboard"><img src="https://github.com/sawood14012/code-ready-analytics-dashboard/workflows/Dashboard%20Generate/badge.svg?branch=master&event=schedule"/></a>
+          </v-card-text>
 
-       <a href="https://github.com/sawood14012/code-ready-analytics-dashboard"><img src="https://github.com/sawood14012/code-ready-analytics-dashboard/workflows/Dashboard%20Generate/badge.svg?branch=master&event=schedule"/></a>
+        </v-card>
+      </v-col>
+       <v-col
+        cols="12"
+        sm="4"
+      >
+        <v-card
+          class="pa-2"
+          outlined
+          tile
+        >
+         <v-card-title>Dashboard UI Master Deploy</v-card-title>
+         <v-card-subtitle>Deploys dashboard to the web</v-card-subtitle>
+          <v-card-text>
+            
+            <a href="https://github.com/sawood14012/code-ready-analytics-dashboard-ui"><img src="https://github.com/sawood14012/code-ready-analytics-dashboard-ui/workflows/CI%20-%20Deploy/badge.svg?branch=master&event=push"/></a>
+         
+          </v-card-text>
+        </v-card>
+      </v-col>
+       <v-col
+        cols="12"
+        sm="4"
+      >
+        <v-card
+          class="pa-2"
+          outlined
+          tile
+        >
+          <v-card-title>PR Job </v-card-title>
+          <v-card-subtitle>Triggers when made a PR on dashboard UI repo</v-card-subtitle>
+           <v-card-text>
+             
+           <a href="https://github.com/sawood14012/code-ready-analytics-dashboard-ui"><img src="https://github.com/sawood14012/code-ready-analytics-dashboard-ui/workflows/CI%20-%20PR/badge.svg?branch=master&event=pull_request"/></a>
+          </v-card-text>
+           
+        </v-card>
+      </v-col>
     </v-row>
-
      </v-container>
     
    </v-banner>
