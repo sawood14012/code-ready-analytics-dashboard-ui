@@ -1,4 +1,6 @@
-# qa_dashboard
+# CodeReady Analytics Dashboard UI 
+
+![CI - Deploy](https://github.com/sawood14012/code-ready-analytics-dashboard-ui/workflows/CI%20-%20Deploy/badge.svg?branch=master&event=push)
 
 ## Build Setup
 
