@@ -1,0 +1,1675 @@
+{
+    "quality": [
+        {
+            "repository": "fabric8-analytics-common",
+            "source_count": 161,
+            "source_lines": 22089,
+            "linter_total": 161,
+            "linter_passed": 161,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 161,
+            "docstyle_passed": 161,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": null,
+            "cyclomatic_complexity": {
+                "A": 1567,
+                "B": 28,
+                "C": 2,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 160,
+                "B": 1,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "status": false,
+            "remarks": "<li>unit tests has not been setup</li><li>improve maintainability index</li>"
+        },
+        {
+            "repository": "fabric8-analytics-server",
+            "source_count": 46,
+            "source_lines": 7575,
+            "linter_total": 46,
+            "linter_passed": 46,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 46,
+            "docstyle_passed": 46,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "2342",
+                "missed": "793",
+                "coverage": "66",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 71.1
+            },
+            "cyclomatic_complexity": {
+                "A": 406,
+                "B": 40,
+                "C": 6,
+                "D": 1,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "maintainability_index": {
+                "A": 43,
+                "B": 2,
+                "C": 1,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li><li>reduce cyclomatic complexity</li><li>improve maintainability index</li>"
+        },
+        {
+            "repository": "fabric8-analytics-worker",
+            "source_count": 171,
+            "source_lines": 16055,
+            "linter_total": 171,
+            "linter_passed": 171,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 170,
+            "docstyle_passed": 170,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "5480",
+                "missed": "1919",
+                "coverage": "65",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 70.25
+            },
+            "cyclomatic_complexity": {
+                "A": 833,
+                "B": 88,
+                "C": 9,
+                "D": 1,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "maintainability_index": {
+                "A": 170,
+                "B": 1,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li><li>1 file ignored by pydocstyle</li><li>reduce cyclomatic complexity</li><li>improve maintainability index</li>"
+        },
+        {
+            "repository": "fabric8-analytics-jobs",
+            "source_count": 65,
+            "source_lines": 4635,
+            "linter_total": 65,
+            "linter_passed": 65,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 65,
+            "docstyle_passed": 65,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "1994",
+                "missed": "1526",
+                "coverage": "23",
+                "progress_bar_class": "progress-bar-danger",
+                "progress_bar_width": 34.55
+            },
+            "cyclomatic_complexity": {
+                "A": 269,
+                "B": 31,
+                "C": 6,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 65,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li>"
+        },
+        {
+            "repository": "fabric8-analytics-tagger",
+            "source_count": 44,
+            "source_lines": 4178,
+            "linter_total": 44,
+            "linter_passed": 43,
+            "linter_failed": 1,
+            "linter_passed_percent": "98",
+            "linter_failed_percent": "2",
+            "docstyle_total": 44,
+            "docstyle_passed": 44,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "887",
+                "missed": "38",
+                "coverage": "96",
+                "progress_bar_class": "progress-bar-success",
+                "progress_bar_width": 96.6
+            },
+            "cyclomatic_complexity": {
+                "A": 241,
+                "B": 31,
+                "C": 14,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 44,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>linter failed</li>"
+        },
+        {
+            "repository": "fabric8-analytics-stack-analysis",
+            "source_count": 92,
+            "source_lines": 5535,
+            "linter_total": 92,
+            "linter_passed": 92,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 92,
+            "docstyle_passed": 92,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "2110",
+                "missed": "1025",
+                "coverage": "51",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 58.35
+            },
+            "cyclomatic_complexity": {
+                "A": 260,
+                "B": 17,
+                "C": 3,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 92,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li><li>fix common errors</li>"
+        },
+        {
+            "repository": "fabric8-analytics-license-analysis",
+            "source_count": 29,
+            "source_lines": 3689,
+            "linter_total": 28,
+            "linter_passed": 28,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 28,
+            "docstyle_passed": 28,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "845",
+                "missed": "54",
+                "coverage": "94",
+                "progress_bar_class": "progress-bar-success",
+                "progress_bar_width": 94.89999999999999
+            },
+            "cyclomatic_complexity": {
+                "A": 200,
+                "B": 26,
+                "C": 13,
+                "D": 1,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "maintainability_index": {
+                "A": 28,
+                "B": 1,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "status": false,
+            "remarks": "<li>not all source files are checked by linter</li><li>not all source files are checked by pydocstyle</li><li>reduce cyclomatic complexity</li><li>improve maintainability index</li>"
+        },
+        {
+            "repository": "fabric8-analytics-data-model",
+            "source_count": 27,
+            "source_lines": 4868,
+            "linter_total": 27,
+            "linter_passed": 27,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 27,
+            "docstyle_passed": 27,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "1278",
+                "missed": "88",
+                "coverage": "93",
+                "progress_bar_class": "progress-bar-success",
+                "progress_bar_width": 94.05
+            },
+            "cyclomatic_complexity": {
+                "A": 172,
+                "B": 41,
+                "C": 10,
+                "D": 1,
+                "E": 1,
+                "F": 0,
+                "status": false
+            },
+            "maintainability_index": {
+                "A": 26,
+                "B": 1,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "status": false,
+            "remarks": "<li>reduce cyclomatic complexity</li><li>improve maintainability index</li>"
+        },
+        {
+            "repository": "fabric8-analytics-recommender",
+            "source_count": 17,
+            "source_lines": 1052,
+            "linter_total": 17,
+            "linter_passed": 17,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 17,
+            "docstyle_passed": 17,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": null,
+            "cyclomatic_complexity": {
+                "A": 62,
+                "B": 4,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 17,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>unit tests has not been setup</li>"
+        },
+        {
+            "repository": "fabric8-analytics-api-gateway",
+            "source_count": 10,
+            "source_lines": 453,
+            "linter_total": 10,
+            "linter_passed": 10,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 10,
+            "docstyle_passed": 10,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "149",
+                "missed": "69",
+                "coverage": "54",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 60.9
+            },
+            "cyclomatic_complexity": {
+                "A": 27,
+                "B": 1,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 10,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li>"
+        },
+        {
+            "repository": "fabric8-analytics-nvd-toolkit",
+            "source_count": 34,
+            "source_lines": 5152,
+            "linter_total": 34,
+            "linter_passed": 33,
+            "linter_failed": 1,
+            "linter_passed_percent": "97",
+            "linter_failed_percent": "3",
+            "docstyle_total": 34,
+            "docstyle_passed": 34,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "1042",
+                "missed": "93",
+                "coverage": "91",
+                "progress_bar_class": "progress-bar-success",
+                "progress_bar_width": 92.35
+            },
+            "cyclomatic_complexity": {
+                "A": 222,
+                "B": 24,
+                "C": 2,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 34,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>linter failed</li>"
+        },
+        {
+            "repository": "fabric8-analytics-auth",
+            "source_count": 9,
+            "source_lines": 883,
+            "linter_total": 9,
+            "linter_passed": 9,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 9,
+            "docstyle_passed": 8,
+            "docstyle_failed": 1,
+            "docstyle_passed_percent": "89",
+            "docstyle_failed_percent": "11",
+            "code_coverage": {
+                "statements": "154",
+                "missed": "31",
+                "coverage": "80",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 83.0
+            },
+            "cyclomatic_complexity": {
+                "A": 59,
+                "B": 3,
+                "C": 1,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 9,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li><li>pydocstyle check failed</li>"
+        },
+        {
+            "repository": "fabric8-gemini-server",
+            "source_count": 23,
+            "source_lines": 2768,
+            "linter_total": 23,
+            "linter_passed": 23,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 23,
+            "docstyle_passed": 23,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "643",
+                "missed": "57",
+                "coverage": "91",
+                "progress_bar_class": "progress-bar-success",
+                "progress_bar_width": 92.35
+            },
+            "cyclomatic_complexity": {
+                "A": 155,
+                "B": 13,
+                "C": 3,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 23,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": true,
+            "remarks": ""
+        },
+        {
+            "repository": "fabric8-analytics-version-comparator",
+            "source_count": 9,
+            "source_lines": 1132,
+            "linter_total": 9,
+            "linter_passed": 9,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 9,
+            "docstyle_passed": 9,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "217",
+                "missed": "0",
+                "coverage": "100",
+                "progress_bar_class": "progress-bar-success",
+                "progress_bar_width": 100.0
+            },
+            "cyclomatic_complexity": {
+                "A": 49,
+                "B": 13,
+                "C": 2,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 9,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": true,
+            "remarks": ""
+        },
+        {
+            "repository": "fabric8-analytics-ingestion",
+            "source_count": 16,
+            "source_lines": 1074,
+            "linter_total": 16,
+            "linter_passed": 16,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 16,
+            "docstyle_passed": 16,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "228",
+                "missed": "107",
+                "coverage": "53",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 60.05
+            },
+            "cyclomatic_complexity": {
+                "A": 53,
+                "B": 4,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 16,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li>"
+        },
+        {
+            "repository": "fabric8-analytics-npm-insights",
+            "source_count": 41,
+            "source_lines": 2957,
+            "linter_total": 41,
+            "linter_passed": 41,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 41,
+            "docstyle_passed": 41,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "500",
+                "missed": "85",
+                "coverage": "83",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 85.55
+            },
+            "cyclomatic_complexity": {
+                "A": 148,
+                "B": 2,
+                "C": 2,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 41,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li><li>fix common errors</li>"
+        },
+        {
+            "repository": "fabric8-analytics-notification-scheduler",
+            "source_count": 13,
+            "source_lines": 1793,
+            "linter_total": 13,
+            "linter_passed": 13,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 13,
+            "docstyle_passed": 13,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "554",
+                "missed": "190",
+                "coverage": "66",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 71.1
+            },
+            "cyclomatic_complexity": {
+                "A": 58,
+                "B": 3,
+                "C": 4,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 13,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li>"
+        },
+        {
+            "repository": "fabric8-analytics-utils",
+            "source_count": 10,
+            "source_lines": 1168,
+            "linter_total": 10,
+            "linter_passed": 10,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 10,
+            "docstyle_passed": 10,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "305",
+                "missed": "0",
+                "coverage": "100",
+                "progress_bar_class": "progress-bar-success",
+                "progress_bar_width": 100.0
+            },
+            "cyclomatic_complexity": {
+                "A": 50,
+                "B": 14,
+                "C": 4,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 10,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": true,
+            "remarks": ""
+        },
+        {
+            "repository": "fabric8-analytics-github-refresh-cronjob",
+            "source_count": 4,
+            "source_lines": 315,
+            "linter_total": 4,
+            "linter_passed": 4,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 4,
+            "docstyle_passed": 4,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": null,
+            "cyclomatic_complexity": {
+                "A": 16,
+                "B": 1,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 4,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>unit tests has not been setup</li>"
+        },
+        {
+            "repository": "fabric8-analytics-github-events-monitor",
+            "source_count": 15,
+            "source_lines": 1182,
+            "linter_total": 15,
+            "linter_passed": 15,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 15,
+            "docstyle_passed": 15,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "230",
+                "missed": "20",
+                "coverage": "91",
+                "progress_bar_class": "progress-bar-success",
+                "progress_bar_width": 92.35
+            },
+            "cyclomatic_complexity": {
+                "A": 57,
+                "B": 8,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 15,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": true,
+            "remarks": ""
+        },
+        {
+            "repository": "fabric8-analytics-release-monitor",
+            "source_count": 10,
+            "source_lines": 819,
+            "linter_total": 10,
+            "linter_passed": 10,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 10,
+            "docstyle_passed": 10,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "126",
+                "missed": "21",
+                "coverage": "83",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 85.55
+            },
+            "cyclomatic_complexity": {
+                "A": 51,
+                "B": 1,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 10,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li>"
+        },
+        {
+            "repository": "f8a-server-backbone",
+            "source_count": 23,
+            "source_lines": 5454,
+            "linter_total": 23,
+            "linter_passed": 23,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 23,
+            "docstyle_passed": 23,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "1646",
+                "missed": "143",
+                "coverage": "91",
+                "progress_bar_class": "progress-bar-success",
+                "progress_bar_width": 92.35
+            },
+            "cyclomatic_complexity": {
+                "A": 227,
+                "B": 31,
+                "C": 15,
+                "D": 1,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "maintainability_index": {
+                "A": 22,
+                "B": 1,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "status": false,
+            "remarks": "<li>reduce cyclomatic complexity</li><li>improve maintainability index</li>"
+        },
+        {
+            "repository": "fabric8-analytics-rudra",
+            "source_count": 43,
+            "source_lines": 3358,
+            "linter_total": 43,
+            "linter_passed": 40,
+            "linter_failed": 3,
+            "linter_passed_percent": "93",
+            "linter_failed_percent": "7",
+            "docstyle_total": 43,
+            "docstyle_passed": 28,
+            "docstyle_failed": 15,
+            "docstyle_passed_percent": "65",
+            "docstyle_failed_percent": "35",
+            "code_coverage": null,
+            "cyclomatic_complexity": {
+                "A": 251,
+                "B": 30,
+                "C": 3,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 43,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>unit tests has not been setup</li><li>linter failed</li><li>pydocstyle check failed</li><li>fix common errors</li>"
+        },
+        {
+            "repository": "fabric8-analytics-scaler",
+            "source_count": 2,
+            "source_lines": 157,
+            "linter_total": 2,
+            "linter_passed": 2,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 2,
+            "docstyle_passed": 2,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": null,
+            "cyclomatic_complexity": {
+                "A": 5,
+                "B": 1,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 2,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>unit tests has not been setup</li>"
+        },
+        {
+            "repository": "f8a-emr-deployment",
+            "source_count": 9,
+            "source_lines": 269,
+            "linter_total": 9,
+            "linter_passed": 9,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 9,
+            "docstyle_passed": 9,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": null,
+            "cyclomatic_complexity": {
+                "A": 17,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 9,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>unit tests has not been setup</li>"
+        },
+        {
+            "repository": "f8a-hpf-insights",
+            "source_count": 18,
+            "source_lines": 1097,
+            "linter_total": 18,
+            "linter_passed": 18,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 18,
+            "docstyle_passed": 18,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": null,
+            "cyclomatic_complexity": {
+                "A": 63,
+                "B": 4,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 18,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>unit tests has not been setup</li>"
+        },
+        {
+            "repository": "f8a-golang-insights",
+            "source_count": 16,
+            "source_lines": 974,
+            "linter_total": 16,
+            "linter_passed": 16,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 16,
+            "docstyle_passed": 16,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "222",
+                "missed": "108",
+                "coverage": "51",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 58.35
+            },
+            "cyclomatic_complexity": {
+                "A": 48,
+                "B": 4,
+                "C": 1,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 16,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li>"
+        },
+        {
+            "repository": "f8a-pypi-insights",
+            "source_count": 14,
+            "source_lines": 1052,
+            "linter_total": 14,
+            "linter_passed": 14,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 14,
+            "docstyle_passed": 14,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "153",
+                "missed": "72",
+                "coverage": "53",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 60.05
+            },
+            "cyclomatic_complexity": {
+                "A": 52,
+                "B": 3,
+                "C": 3,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 14,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li>"
+        },
+        {
+            "repository": "f8a-stacks-report",
+            "source_count": 24,
+            "source_lines": 3940,
+            "linter_total": 24,
+            "linter_passed": 24,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 24,
+            "docstyle_passed": 24,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "1318",
+                "missed": "222",
+                "coverage": "83",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 85.55
+            },
+            "cyclomatic_complexity": {
+                "A": 199,
+                "B": 16,
+                "C": 5,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 24,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li>"
+        },
+        {
+            "repository": "f8a-data-ingestion-service",
+            "source_count": 5,
+            "source_lines": 182,
+            "linter_total": 5,
+            "linter_passed": 5,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 5,
+            "docstyle_passed": 5,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": null,
+            "cyclomatic_complexity": {
+                "A": 14,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 5,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>unit tests has not been setup</li>"
+        },
+        {
+            "repository": "cvejob",
+            "source_count": 39,
+            "source_lines": 3546,
+            "linter_total": 35,
+            "linter_passed": 35,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 35,
+            "docstyle_passed": 35,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "684",
+                "missed": "107",
+                "coverage": "84",
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 86.39999999999999
+            },
+            "cyclomatic_complexity": {
+                "A": 157,
+                "B": 31,
+                "C": 7,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 34,
+                "B": 1,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": false
+            },
+            "status": false,
+            "remarks": "<li>improve code coverage</li><li>improve maintainability index</li>"
+        },
+        {
+            "repository": "victimsdb-lib",
+            "source_count": 9,
+            "source_lines": 843,
+            "linter_total": 9,
+            "linter_passed": 9,
+            "linter_failed": 0,
+            "linter_passed_percent": "100",
+            "linter_failed_percent": "0",
+            "docstyle_total": 9,
+            "docstyle_passed": 9,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "100",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": "204",
+                "missed": "0",
+                "coverage": "100",
+                "progress_bar_class": "progress-bar-success",
+                "progress_bar_width": 100.0
+            },
+            "cyclomatic_complexity": {
+                "A": 71,
+                "B": 8,
+                "C": 2,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 9,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": true,
+            "remarks": ""
+        },
+        {
+            "repository": "fabric8-analytics-jenkins-plugin",
+            "source_count": 10,
+            "source_lines": 1028,
+            "linter_total": 0,
+            "linter_passed": 0,
+            "linter_failed": 0,
+            "linter_passed_percent": "0",
+            "linter_failed_percent": "0",
+            "docstyle_total": 0,
+            "docstyle_passed": 0,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "0",
+            "docstyle_failed_percent": "0",
+            "code_coverage": {
+                "statements": 348,
+                "missed": 112,
+                "coverage": 67,
+                "progress_bar_class": "progress-bar-warning",
+                "progress_bar_width": 71.94999999999999
+            },
+            "cyclomatic_complexity": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>linter is not setup</li><li>docstyle checker is not setup</li><li>improve code coverage</li><li>setup dead code detection tool</li><li>setup common errors detection tool</li>"
+        },
+        {
+            "repository": "fabric8-analytics-lsp-server",
+            "source_count": 6,
+            "source_lines": 1106,
+            "linter_total": 0,
+            "linter_passed": 0,
+            "linter_failed": 0,
+            "linter_passed_percent": "0",
+            "linter_failed_percent": "0",
+            "docstyle_total": 0,
+            "docstyle_passed": 0,
+            "docstyle_failed": 0,
+            "docstyle_passed_percent": "0",
+            "docstyle_failed_percent": "0",
+            "code_coverage": null,
+            "cyclomatic_complexity": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "maintainability_index": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0,
+                "E": 0,
+                "F": 0,
+                "status": true
+            },
+            "status": false,
+            "remarks": "<li>linter is not setup</li><li>docstyle checker is not setup</li><li>unit tests has not been setup</li><li>setup dead code detection tool</li><li>setup common errors detection tool</li>"
+        }
+    ],
+    "others": {
+        "Stage": {
+            "core_api_available": true,
+            "jobs_api_available": true,
+            "core_api_auth_token": true,
+            "jobs_api_auth_token": true
+        },
+        "production": {
+            "core_api_available": true,
+            "jobs_api_available": true,
+            "core_api_auth_token": true,
+            "jobs_api_auth_token": true
+        },
+        "perf_tests_statistic": {
+            "component analysis": {
+                "sequenced_calls_known_component": {
+                    "sum": 8.920569896697998,
+                    "avg": 0.8920569896697998,
+                    "min": 0.8181207180023193,
+                    "max": 0.9581553936004639
+                },
+                "sequenced_calls_unknown_component": {
+                    "sum": 12.541583776473999,
+                    "avg": 1.2541583776474,
+                    "min": 1.1269135475158691,
+                    "max": 1.636887550354004
+                },
+                "parallel_calls_known_component": {
+                    "sum": 7.195119857788086,
+                    "avg": 1.5572071025768917,
+                    "min": 1.1874523162841797,
+                    "max": 2.8581981658935547
+                },
+                "parallel_calls_unknown_component": {
+                    "sum": 13.313395977020264,
+                    "avg": 3.066051661968231,
+                    "min": 1.7167465686798096,
+                    "max": 4.882106304168701
+                }
+            },
+            "stack analysis": {
+                "sequenced_calls": {
+                    "sum": 77.920569896698,
+                    "avg": 7.7920569896698,
+                    "min": 3.8469595909118652,
+                    "max": 20.912055492401123
+                },
+                "parallel_calls": {
+                    "sum": 71.95119857788086,
+                    "avg": 15.572071025768917,
+                    "min": 11.874523162841797,
+                    "max": 28.581981658935547
+                }
+            }
+        },
+        "generated_on": "2020-08-03 17:12:53",
+        "ci_jobs": [
+            {
+                "repo": "fabric8-analytics-common",
+                "build_job": null,
+                "test_job": "<a href='https://ci.centos.org/job/devtools-e2e-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-e2e-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-common-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-common-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-common-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-common-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-server",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-server-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-server-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-server-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-server-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-server-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-server-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-server-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-server-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-worker",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-worker-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-worker-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-worker-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-worker-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-worker-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-worker-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-worker-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-worker-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-jobs",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-jobs-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-jobs-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-jobs-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-jobs-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-jobs-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-jobs-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-jobs-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-jobs-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-tagger",
+                "build_job": null,
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-tagger-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-tagger-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-tagger-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-tagger-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-tagger-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-tagger-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-stack-analysis",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-stack-analysis-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-stack-analysis-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-stack-analysis-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-stack-analysis-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-stack-analysis-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-stack-analysis-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-stack-analysis-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-stack-analysis-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-license-analysis",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-license-analysis-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-license-analysis-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-license-analysis-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-license-analysis-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-license-analysis-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-license-analysis-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-license-analysis-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-license-analysis-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-data-model",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-data-model-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-data-model-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-data-model-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-data-model-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-data-model-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-data-model-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-data-model-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-data-model-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-recommender",
+                "build_job": null,
+                "test_job": null,
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-recommender-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-recommender-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-recommender-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-recommender-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-api-gateway",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-api-gateway-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-api-gateway-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-api-gateway-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-api-gateway-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-api-gateway-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-api-gateway-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-api-gateway-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-api-gateway-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-nvd-toolkit",
+                "build_job": null,
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-nvd-toolkit-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-nvd-toolkit-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-nvd-toolkit-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-nvd-toolkit-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-nvd-toolkit-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-nvd-toolkit-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-auth",
+                "build_job": null,
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-auth-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-auth-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-auth-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-auth-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-auth-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-auth-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-gemini-server",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-gemini-server-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-gemini-server-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-gemini-server-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-gemini-server-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-gemini-server-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-gemini-server-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-gemini-server-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-gemini-server-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-version-comparator",
+                "build_job": null,
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-version-comparator-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-version-comparator-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-version-comparator-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-version-comparator-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-version-comparator-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-version-comparator-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-ingestion",
+                "build_job": null,
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-ingestion-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-ingestion-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-ingestion-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-ingestion-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-ingestion-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-ingestion-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-npm-insights",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-npm-insights-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-npm-insights-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-npm-insights-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-npm-insights-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-npm-insights-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-npm-insights-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-npm-insights-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-npm-insights-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-notification-scheduler",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-notification-scheduler-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-notification-scheduler-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-notification-scheduler-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-notification-scheduler-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-notification-scheduler-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-notification-scheduler-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-notification-scheduler-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-notification-scheduler-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-utils",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-utils-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-utils-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-utils-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-utils-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-utils-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-utils-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-utils-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-utils-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-github-refresh-cronjob",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-github-refresh-cronjob-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-github-refresh-cronjob-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-github-refresh-cronjob-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-github-refresh-cronjob-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-github-refresh-cronjob-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-github-refresh-cronjob-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-github-refresh-cronjob-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-github-refresh-cronjob-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-github-events-monitor",
+                "build_job": null,
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-github-events-monitor-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-github-events-monitor-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-github-events-monitor-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-github-events-monitor-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-github-events-monitor-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-github-events-monitor-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-release-monitor",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-release-monitor-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-release-monitor-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-release-monitor-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-release-monitor-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-release-monitor-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-release-monitor-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-release-monitor-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-release-monitor-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "f8a-server-backbone",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-f8a-server-backbone-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-server-backbone-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-f8a-server-backbone-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-server-backbone-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-f8a-server-backbone-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-server-backbone-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-f8a-server-backbone-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-server-backbone-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-rudra",
+                "build_job": null,
+                "test_job": null,
+                "pylint_job": null,
+                "pydoc_job": null
+            },
+            {
+                "repo": "fabric8-analytics-scaler",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-scaler-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-scaler-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-scaler-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-scaler-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": null,
+                "pydoc_job": null
+            },
+            {
+                "repo": "f8a-emr-deployment",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-f8a-emr-deployment-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-emr-deployment-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-f8a-emr-deployment-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-emr-deployment-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-f8a-emr-deployment-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-emr-deployment-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-f8a-emr-deployment-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-emr-deployment-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "f8a-hpf-insights",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-f8a-hpf-insights-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-hpf-insights-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-f8a-hpf-insights-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-hpf-insights-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-f8a-hpf-insights-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-hpf-insights-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-f8a-hpf-insights-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-hpf-insights-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "f8a-golang-insights",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-f8a-golang-insights-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-golang-insights-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-f8a-golang-insights-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-golang-insights-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-f8a-golang-insights-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-golang-insights-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-f8a-golang-insights-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-golang-insights-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "f8a-pypi-insights",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-f8a-pypi-insights-f8a-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-pypi-insights-f8a-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-f8a-pypi-insights-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-pypi-insights-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-f8a-pypi-insights-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-pypi-insights-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-f8a-pypi-insights-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-pypi-insights-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "f8a-stacks-report",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-f8a-stacks-report-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-stacks-report-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-f8a-stacks-report-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-stacks-report-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-f8a-stacks-report-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-stacks-report-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-f8a-stacks-report-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-stacks-report-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "f8a-data-ingestion-service",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-f8a-data-ingestion-service-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-data-ingestion-service-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-f8a-data-ingestion-service-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-data-ingestion-service-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-f8a-data-ingestion-service-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-data-ingestion-service-fabric8-analytics-pydoc&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-f8a-data-ingestion-service-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-f8a-data-ingestion-service-fabric8-analytics-pylint&style=flat-square'</a>"
+            },
+            {
+                "repo": "cvejob",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-cvejob-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-cvejob-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-cvejob'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-cvejob&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-cvejob-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-cvejob-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-cvejob-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-cvejob-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "victimsdb-lib",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-victimsdb-lib-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-victimsdb-lib-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-victimsdb-lib-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-victimsdb-lib-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": "<a href='https://ci.centos.org/job/devtools-victimsdb-lib-fabric8-analytics-pylint'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-victimsdb-lib-fabric8-analytics-pylint&style=flat-square'</a>",
+                "pydoc_job": "<a href='https://ci.centos.org/job/devtools-victimsdb-lib-fabric8-analytics-pydoc'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-victimsdb-lib-fabric8-analytics-pydoc&style=flat-square'</a>"
+            },
+            {
+                "repo": "fabric8-analytics-jenkins-plugin",
+                "build_job": null,
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-jenkins-plugin-fabric8-analytics'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-jenkins-plugin-fabric8-analytics&style=flat-square'</a>",
+                "pylint_job": null,
+                "pydoc_job": null
+            },
+            {
+                "repo": "fabric8-analytics-lsp-server",
+                "build_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-lsp-server-npm-publish-build-master'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-lsp-server-npm-publish-build-master&style=flat-square'</a>",
+                "test_job": "<a href='https://ci.centos.org/job/devtools-fabric8-analytics-lsp-server'><img src='https://ci.centos.org/buildStatus/icon?job=devtools-fabric8-analytics-lsp-server&style=flat-square'</a>",
+                "pylint_job": null,
+                "pydoc_job": null
+            }
+        ]
+    }
+}
