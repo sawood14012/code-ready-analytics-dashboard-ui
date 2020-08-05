@@ -89,6 +89,7 @@
     <h3>All CI Jobs</h3>
     
   </v-banner>
+   <v-banner>
     <v-simple-table dense> 
     <template v-slot:default>
       <thead>
@@ -111,10 +112,13 @@
         </tr>
       </tbody>
     </template>
+    
+   
   </v-simple-table>
-
-   <v-divider></v-divider>
+   </v-banner>
+  <v-divider></v-divider>
    <v-banner>
+      
      <h3> Dashboard Generation</h3>
      <v-container>
        <v-row no-gutters>
