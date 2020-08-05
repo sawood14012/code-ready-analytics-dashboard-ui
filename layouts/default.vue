@@ -22,6 +22,8 @@
       
 
       <v-toolbar-title v-text="title" />
+      <v-spacer></v-spacer>
+      <v-avatar><img src="icon.png"></v-avatar>
     </v-app-bar>
     <v-main>
       <v-container>
