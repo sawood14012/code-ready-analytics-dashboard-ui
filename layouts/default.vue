@@ -105,7 +105,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: "Code Ready Analytics QA Dashboard"
+      title: "Code Ready Analytics QE Dashboard"
     };
   },
   async fetch() {
